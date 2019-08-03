@@ -17,7 +17,7 @@ namespace WebProject.API.Controllers
         {
             //throw new Exception("Generujemy wyjątek");
             
-            return new string[] { "value1", "value2" };
+            return new string[] { "value1", "value2", "value4" };
         }
 
         // GET api/values/5
