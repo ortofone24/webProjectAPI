@@ -10,7 +10,5 @@ namespace WebProject.API.Models
 
         public byte[] PasswordSalt { get; set; }
 
-        /*tests
-        23232 */
     }
 }
