@@ -9,5 +9,7 @@ namespace WebProject.API.Models
         public byte[] PasswordHash { get; set; }
 
         public byte[] PasswordSalt { get; set; }
+
+        /*tests */
     }
 }
